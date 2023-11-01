@@ -9,7 +9,7 @@ endpoint that receives a nautobot webhook event.
   * `event_test_client.py` - a test client 
   * test - unit/py test (no tests so far)
     * mock_data - folder containing mock data
-    * [README.md](./tests/README.md)
+      * [README.md](./tests/mock_data/README.md)
 
 
 ## run app
