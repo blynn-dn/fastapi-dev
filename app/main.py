@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .routers import webhook
+from app.routers import webhook
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import RedirectResponse
 
